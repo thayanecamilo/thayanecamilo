@@ -10,7 +10,7 @@ thayanecamilo/thayanecamilo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 - <div display="inline">
- <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thayanecamilo&show_icons=true&theme=merko"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanecamilo&layout=compact&hide_progress=true&theme=merko">
@@ -23,3 +23,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
+
+
+            
+         
+          
