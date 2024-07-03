@@ -3,7 +3,6 @@
 - 🌱 Atualmente estou aprendendo a python, git e git hub.
 - 💞️Procuro colaborar no meu desenvolvimento profissional
 - ⚡ Curiosidade: Sou tímida e gosto muito de livros
-- 
 
 - <div display="inline">
  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
