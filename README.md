@@ -1,6 +1,6 @@
 👋 Oi, estou Thayane Camilo
 - 👀 Estou interessada em aprender mais sobre linguagem de programação
-- 🌱 Atualmente estou aprendendo a python, git e git hub.
+- 🌱 Atualmente sou Assistente Financeiro e estou aprendendo a python, git e git hub.
 - 💞️Procuro aprimorar o meu desenvolvimento profissional
 - ⚡ Curiosidade: Sou tímida e gosto muito de livros
 
