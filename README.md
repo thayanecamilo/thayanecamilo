@@ -10,7 +10,7 @@ thayanecamilo/thayanecamilo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 - <div display="inline">
- <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+ <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thayanecamilo&show_icons=true&theme=merko"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayanecamilo&layout=compact&hide_progress=true&theme=merko">
@@ -26,8 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 
            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-          >
+          
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+          
           
             
          
