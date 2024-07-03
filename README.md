@@ -1,11 +1,9 @@
 👋 Oi, estou Thayane Camilo
 - 👀 Estou interessada em aprender mais sobre linguagem de programação
-- 🌱 Atualmente estou aprendendo a chorar e chorar
+- 🌱 Atualmente estou aprendendo a python, git e git hub.
 - 💞️Procuro colaborar no meu desenvolvimento profissional
-- 📫 Como chegar até mim... Não chegue
-- 😄 Pronomes: Ela/Ela
 - ⚡ Curiosidade: Sou tímida e gosto muito de livros
-<!---
+
 thayanecamilo/thayanecamilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -28,8 +26,6 @@ You can click the Preview link to take a look at your changes.
            
           
            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-          
           
             
          
