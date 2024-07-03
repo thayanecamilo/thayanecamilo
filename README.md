@@ -3,6 +3,7 @@
 - 🌱 Atualmente estou aprendendo a python, git e git hub.
 - 💞️Procuro colaborar no meu desenvolvimento profissional
 - ⚡ Curiosidade: Sou tímida e gosto muito de livros
+- 
 <---
 thayanecamilo/thayanecamilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
